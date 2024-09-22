@@ -1,4 +1,4 @@
-# Random_Forest_Classifier
+# Random Forest Classifier
 
 Bob has started his own mobile company. He wants to give tough fight to big companies like Apple,Samsung etc.
 
